@@ -223,7 +223,9 @@ header .header-sub-title::after {
   justify-content: space-around;
   font-size: 26px;
 }
-
+.contact{
+  padding:0 0 200px 0;
+  }
 .contact .section-items {
   background: url("images/ゆめカフェ_22.png") no-repeat;
   background-size: cover;
